@@ -70,6 +70,7 @@ docker run -p 8501:8501 streamlit-dashboard
 ```bash
 http://localhost:8501
 ```
+[https://github.com/sulemanMazhar/streamlit_dashboard/blob/main/Screenshot%202025-04-24%20at%2013.44.26.png]
 
 ## 📦 Install Additional Dependencies
 If you're extending the app, update requirements.txt:
