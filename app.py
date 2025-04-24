@@ -1,3 +1,4 @@
+# app.py
 import streamlit as st
 from dashboard.utils import Utils
 from dashboard.kpi_section import KPISection
